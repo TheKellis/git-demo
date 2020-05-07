@@ -6,3 +6,5 @@ class DbTitleMatch(
 )
 
 class TestClass()
+
+class TestFeature2()
