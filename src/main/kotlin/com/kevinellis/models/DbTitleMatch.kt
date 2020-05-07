@@ -8,3 +8,5 @@ class DbTitleMatch(
 class TestClass()
 
 class TestFeature1()
+
+class TestFeature2()
