@@ -5,3 +5,4 @@ class DbTitleMatch(
     var title: String = ""
 )
 
+class TestClass()
